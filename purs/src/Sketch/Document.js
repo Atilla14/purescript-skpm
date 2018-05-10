@@ -1,0 +1,1 @@
+exports.getSelection = document.selectedLayers.layers
